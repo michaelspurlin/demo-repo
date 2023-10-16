@@ -1,3 +1,3 @@
 # Demo for learning Git
 
-Some descriptive text
+Some descriptive text  - even more
